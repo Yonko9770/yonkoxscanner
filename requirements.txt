@@ -1,6 +1,5 @@
 aiohttp
 aiofiles
-asyncio
 cryptography
 dnspython
 pretty_errors
